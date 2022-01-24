@@ -13,8 +13,8 @@ env:
   SESSION_NAME: "${{ secrets.SESSION_NAME }}"
   BOT_TOKEN: "${{ secrets.BOT_TOKEN }}"
   BOT_USERNAME: "${{ secrets.BOT_USERNAME }}"
-  BOT_NAME: "Sunflower"
-  OWNER_ID: '1353835623'
+  BOT_NAME: "Shanks"
+  OWNER_ID: '1594132845'
   SUDO_USERS: "${{ secrets.SUDO_USERS }}"
 
 jobs:
